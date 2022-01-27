@@ -3,3 +3,4 @@ Al tener tres reuniones semanales, lo tópicos se irán acabando aunque la confi
 Además el grupo quería realizar un proyecto pequeño dentro del Internship para funcionar como un equipo de desarrollo real.
 Surge la idea de realizar una aplicación simple que arroje: puzzle, preguntas, palabras a combinar (adivinanzas, chistes, descripción, etc), anécdotas entre otros tópicos.
 Se elegirá de manera aleatoria un participante a completar la consigna y se podrá votar su performance para llevar una tabla de posiciones.
+No se comitea.
