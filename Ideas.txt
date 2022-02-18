@@ -4,3 +4,9 @@ Además el grupo quería realizar un proyecto pequeño dentro del Internship par
 Surge la idea de realizar una aplicación simple que arroje: puzzle, preguntas, palabras a combinar (adivinanzas, chistes, descripción, etc), anécdotas entre otros tópicos.
 Se elegirá de manera aleatoria un participante a completar la consigna y se podrá votar su performance para llevar una tabla de posiciones.
 No se comitea.
+
+Requerimientos:
+* Establecer un orden de juego para que el este de el aviso de a quien le toca jugar.
+* El juego debe asignarle al jugador tres palabras, un sustantivo, un adjetivo, un verbo y una condicion y con estas debe convinar las tres primeras para satisfacer la condicion.
+* El juego debe otorgar al jugador una segunda chance para en caso que las palabras seleccionadas sean muy dificil de combinar tenga otra oportunidad de que le toque una seleccion mas facil de utilizar.
+* Una vez que el jugador termino su turno, los demas participantes deben darle una calificacion a lo que sea que se le haya ocurrido. Estos scores se van sumando a un contador para que cada vez que los participantes quieran volver a jugar tengan un historial guardado de los puntajes que llevan acumulados.
